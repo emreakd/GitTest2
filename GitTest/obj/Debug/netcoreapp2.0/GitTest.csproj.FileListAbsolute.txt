@@ -1,0 +1,11 @@
+C:\Users\Emre\source\repos\GitTest\GitTest\bin\Debug\netcoreapp2.0\GitTest.deps.json
+C:\Users\Emre\source\repos\GitTest\GitTest\bin\Debug\netcoreapp2.0\GitTest.runtimeconfig.json
+C:\Users\Emre\source\repos\GitTest\GitTest\bin\Debug\netcoreapp2.0\GitTest.runtimeconfig.dev.json
+C:\Users\Emre\source\repos\GitTest\GitTest\bin\Debug\netcoreapp2.0\GitTest.dll
+C:\Users\Emre\source\repos\GitTest\GitTest\bin\Debug\netcoreapp2.0\GitTest.pdb
+C:\Users\Emre\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.0\GitTest.csprojResolveAssemblyReference.cache
+C:\Users\Emre\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.0\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.0\GitTest.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.0\GitTest.AssemblyInfo.cs
+C:\Users\Emre\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.0\GitTest.dll
+C:\Users\Emre\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.0\GitTest.pdb
